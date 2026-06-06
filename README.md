@@ -1,1 +1,3 @@
-Java Interview Question #11: Prime Number
+Java Interview Question 
+1. Prime Number Program
+2. Anagram Program
