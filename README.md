@@ -3,3 +3,6 @@ Java Interview Question
 2. Anagram Program
 3. Array in Ascending Order
 4. Missing Number in an Array
+5. Binary Search works only on a sorted array
+   Example(10 20 30 40 50 60 70)
+   Find:50
