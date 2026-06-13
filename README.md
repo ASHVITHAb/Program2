@@ -6,3 +6,4 @@ Java Interview Question
 5. Binary Search works only on a sorted array
    Example(10 20 30 40 50 60 70)
    Find:50
+6. First non-repeated character in a string
