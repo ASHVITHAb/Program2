@@ -7,3 +7,4 @@ Java Interview Question
    Example(10 20 30 40 50 60 70)
    Find:50
 6. First non-repeated character in a string
+7. Non-Repeated Character without collection
