@@ -8,3 +8,4 @@ Java Interview Question
    Find:50
 6. First non-repeated character in a string
 7. Non-Repeated Character without collection
+8. Armstrong Number
