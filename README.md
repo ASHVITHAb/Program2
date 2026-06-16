@@ -9,3 +9,4 @@ Java Interview Question
 6. First non-repeated character in a string
 7. Non-Repeated Character without collection
 8. Armstrong Number
+9. Singleton Design Pattern
