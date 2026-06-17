@@ -10,3 +10,4 @@ Java Interview Question
 7. Non-Repeated Character without collection
 8. Armstrong Number
 9. Singleton Design Pattern
+10. Using Comparator and Comparable 
