@@ -36,3 +36,20 @@ public class EmployeeSort {
         System.out.println(employees);
     }
 }
+//Comparable
+public class Employee implements Comparable<Employee> {
+
+    int id;
+    String name;
+
+    @Override
+    public int compareTo(Employee e) {
+        return this.name.compareTo(e.name);
+    }
+}
+
+
+
+
+
+
